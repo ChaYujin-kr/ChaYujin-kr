@@ -1,72 +1,53 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Data+Scientist;And+Data+Engineer;Math+%26+Deep+Learning+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=520&lines=Hi+there!+I'm+Yujin+Cha;Data+Architect+%26+Engineer;Data+Quality+%26+Governance;Designing+Data+You+Can+Trust" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Turning Data into Intelligence</h3>
-</div>
-
-<br/>
-
-<div align="center">
-  I am a prospective <b>Data Scientist & Data Engineer</b> with a strong background in <b>Mathematics, Statistics, and Computer Science</b>.<br>
-  I specialize in building deep learning models and robust data pipelines.<br>
-  Currently interested in <b>BCI (Brain-Computer Interface)</b> and <b>AI Application Development</b>.
+  <h3>🏗 Designing Trustworthy Data Platforms</h3>
+  <b>Data Architect</b> building pipelines, quality automation, and governance<br/>
+  that turn raw data into <b>AI-ready</b> foundations.
 </div>
 
 <br/>
 
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,aws,docker,kubernetes,linux,bash,git,pytorch,tensorflow&perline=11" alt="Tech Stack"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/SingleStore-AA00FF?style=flat-square" alt="SingleStore"/>
+  <img src="https://img.shields.io/badge/Text--to--SQL-336699?style=flat-square" alt="Text-to-SQL"/>
 </div>
 
 <br/>
 
-<h2 align="center">🏆 Key Projects & Achievements</h2>
+<h2 align="center">🏆 Key Projects</h2>
 
-- 🎧 **Sound Classification for Disaster Communication**
-  - Developed a sound classification model for emergency devices using Deep Learning.
+| | Project | Highlights |
+|:-:|---|---|
+| 🥇 | **Yotta — Data Quality Automation SaaS** <br/><sub>2026 · Product Lead</sub> | Led architecture → commercialization · Text-to-SQL rule generation, multi-tenant access control, PII masking · **GS Certified**, delivered to public & enterprise clients |
+| 🚓 | **National Police Agency AI Platform ISP** <br/><sub>2026 · Consultant & Data Architect</sub> | Target architecture (K8s, open-source LLM) · Data pipeline & MLOps PoC · LLM guardrails & R&R governance |
+| ☁️ | **Gov. Cloud-Native Migration (고향사랑e음)** <br/><sub>2026 · Data Quality Proposal</sub> | Led data quality proposal (won) · Validation rules for terms, codes, and domains |
+| 🗄 | **SingleStore Upgrade Performance Study** <br/><sub>2025 · R&D</sub> | Found upgrade time scales **linearly with column count** (index rebuild) · Shell-automated reproducible benchmarks |
+| 🤖 | **GPT Product Categorization** <br/><sub>2024 · E-commerce</sub> | Error rate **< 1%**, registration time **−40%** · Automated document masking **−80%** time |
+| 📦 | **[stockait](https://github.com/stockAI-py)** — PyPI Library <br/><sub>2022–23 · Data Pipeline</sub> | 20-year KR/US equities ingestion & standardization · JOSS submitted |
+| 📝 | **Lightweight Sound Classification** <br/><sub>2022 · Co-first Author, KCC</sub> | Collected field audio from 6 devices · Transfer learning + TFLite on-device |
 
-- 📊 **CNN-based Noise Classification**
-  - Tuned CNN models to solve noise classification problems.
-  - Published a paper at the **Korea Computer Congress (KCC)**.
-
-- 📉 **Anomaly Detection System**
-  - Achieved an **F1 Score of 0.98** through intensive model tuning.
-
-- 🛠 **Data Engineering Pipeline**
-  - Completed **Programmers Data Engineering Dev Course**.
-  - Experienced in building pipelines for big data and streaming environments.
-
-<br/>
-
-<h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaYujin-kr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaYujin-kr&layout=compact&theme=radical" alt="Top Languages" />
+  <sub>🏅 AI/Data competitions ×20 · KNHANES Data Analysis Award · 정보처리기사 · DAsP · ADsP</sub>
 </div>
 
 <br/>
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2 align="center">📫 Connect</h2>
 <div align="center">
-  <a href="https://velog.io/@chaujin00/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
-  </a>
-  <a href="https://www.linkedin.com/in/유진-차-776868212">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/%EC%9C%A0%EC%A7%84-%EC%B0%A8-776868212"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://velog.io/@chaujin00/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge" height="40" alt="Velog"/></a>
+  &nbsp;
+  <a href="mailto:chaujin00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/></a>
 </div>
 
 <br/>
-<div align="center">
-  <i>Let's build the future with Data.</i>
-</div>
+<div align="center"><i>Designing data you can trust.</i></div>
