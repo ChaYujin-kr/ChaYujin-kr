@@ -35,7 +35,7 @@
 | 🚓 | **National Police Agency AI Platform ISP** <br/><sub>2026 · Consultant & Data Architect</sub> | Target architecture (K8s, open-source LLM) · Data pipeline & MLOps PoC · LLM guardrails & R&R governance |
 | 🔁 | **[MLOps Drift Drill](https://github.com/ChaYujin-kr/mlops-drift-drill)** <br/><sub>2026 · MLOps</sub> | BentoML serving → Evidently drift monitoring → KFP judge pipeline → MLflow registry · Showed threshold tuning beat retraining (net profit **+59%** vs AUC +0.002) · [Blog series](https://chayujin-kr.github.io/posts/mlops-drift-00-intro/) |
 | 🗄 | **SingleStore Upgrade Performance Study** <br/><sub>2025 · R&D</sub> | Found upgrade time scales **linearly with column count** (index rebuild) · Shell-automated reproducible benchmarks |
-| 🤖 | **GPT Product Categorization** <br/><sub>2024 · E-commerce</sub> | Error rate **< 1%**, registration time **−40%** · Automated document masking **−80%** time |
+| 🤖 | **PII Masking Automation & GPT Product Categorization** <br/><sub>2024 · E-commerce</sub> | Python CLI for import-declaration masking & filing: **3 days → 30 min**, error rate **< 1%** · GPT categorization with human review |
 | 📦 | **[stockait](https://github.com/stockAI-py)** — PyPI Library <br/><sub>2022–23 · Data Pipeline</sub> | 20-year KR/US equities ingestion & standardization · JOSS submitted |
 | 📝 | **Lightweight Sound Classification** <br/><sub>2022 · Co-first Author, KCC</sub> | Collected field audio from 6 devices · Transfer learning + TFLite on-device |
 
