@@ -31,7 +31,7 @@
 
 | | Project | Highlights |
 |:-:|---|---|
-| 🥇 | **Yotta — Data Quality Automation SaaS** <br/><sub>2026 · Product Lead</sub> | Led architecture → commercialization · Text-to-SQL rule generation, multi-tenant access control, PII masking · **GS Certified**, delivered to public & enterprise clients |
+| 🥇 | **Yotta — Data Quality Automation SaaS** <br/><sub>2026 · Product Lead</sub> | Led architecture → commercialization · Text-to-SQL rule generation, multi-tenant access control, PII masking · GS certification under review · delivered to a public institution · offline installer for air-gapped sites |
 | 🚓 | **National Police Agency AI Platform ISP** <br/><sub>2026 · Consultant & Data Architect</sub> | Target architecture (K8s, open-source LLM) · Data pipeline & MLOps PoC · LLM guardrails & R&R governance |
 | 🔁 | **[MLOps Drift Drill](https://github.com/ChaYujin-kr/mlops-drift-drill)** <br/><sub>2026 · MLOps</sub> | BentoML serving → Evidently drift monitoring → KFP judge pipeline → MLflow registry · Showed threshold tuning beat retraining (net profit **+59%** vs AUC +0.002) · [Blog series](https://chayujin-kr.github.io/posts/mlops-drift-00-intro/) |
 | 🗄 | **SingleStore Upgrade Performance Study** <br/><sub>2025 · R&D</sub> | Found upgrade time scales **linearly with column count** (index rebuild) · Shell-automated reproducible benchmarks |
@@ -47,13 +47,13 @@
 
 <h2 align="center">📫 Connect</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/%EC%9C%A0%EC%A7%84-%EC%B0%A8-776868212"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/yujincha-data"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://chayujin-kr.github.io"><img src="https://img.shields.io/badge/Blog-24292F?style=for-the-badge&logo=githubpages&logoColor=white" height="40" alt="Blog"/></a>
   &nbsp;
   <a href="https://velog.io/@chaujin00/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge" height="40" alt="Velog"/></a>
   &nbsp;
-  <a href="mailto:chaujin00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/></a>
+  <a href="mailto:chauujjiinn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/></a>
 </div>
 
 <br/>
